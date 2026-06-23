@@ -37,6 +37,11 @@ classifiers = [
   "Operating System :: Microsoft :: Windows"
 ]
 
+[project.urls]
+Homepage = "https://github.com/mhogan-nwra/ND-LSP"
+Repository = "https://github.com/mhogan-nwra/ND-LSP"
+Issues = "https://github.com/mhogan-nwra/ND-LSP/issues"
+
 [build-system]
 requires = ["setuptools>=61"]
 build-backend = "setuptools.build_meta"
