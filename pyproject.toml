@@ -43,7 +43,7 @@ Repository = "https://github.com/mhogan-nwra/ND-LSP"
 Issues = "https://github.com/mhogan-nwra/ND-LSP/issues"
 
 [build-system]
-requires = ["setuptools>=61"]
+requires = ["setuptools>=77"]
 build-backend = "setuptools.build_meta"
 
 [tool.setuptools.dynamic]
