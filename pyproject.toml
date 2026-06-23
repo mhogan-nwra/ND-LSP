@@ -9,7 +9,8 @@ maintainers = [
     {name = "Joseph Hughes", email = "jhughes@nwra.com"},
     {name = "Matt Hogan", email = "mhogan@nwra.com"}
 ]
-license = {file = "LICENSE"}
+license = "MIT"
+license-files = ["LICENSE"]
 readme = "README.md"
 requires-python = ">=3.8"
 dependencies = [
@@ -22,7 +23,6 @@ dependencies = [
 classifiers = [
   "Topic :: Scientific/Engineering :: Physics",
   "Intended Audience :: Science/Research",
-  "License :: OSI Approved :: MIT License",
   "Natural Language :: English",
   "Programming Language :: Python :: 3",
   "Programming Language :: Python :: 3.8",
