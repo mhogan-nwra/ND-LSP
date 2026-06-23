@@ -9,12 +9,32 @@ maintainers = [
     {name = "Joseph Hughes", email = "jhughes@nwra.com"},
     {name = "Matt Hogan", email = "mhogan@nwra.com"}
 ]
+license = {file = "LICENSE"}
+readme = "README.md"
 requires-python = ">=3.8"
 dependencies = [
     "numpy>=1.20.0",
     "scipy",
     "matplotlib",
     "typing-extensions"
+]
+
+classifiers = [
+  "Topic :: Scientific/Engineering :: Physics",
+  "Intended Audience :: Science/Research",
+  "License :: OSI Approved :: BSD License",
+  "Natural Language :: English",
+  "Programming Language :: Python :: 3",
+  "Programming Language :: Python :: 3.8",
+  "Programming Language :: Python :: 3.9",
+  "Programming Language :: Python :: 3.10",
+  "Programming Language :: Python :: 3.11",
+  "Programming Language :: Python :: 3.12",
+  "Programming Language :: Python :: 3.13",
+  "Programming Language :: Python :: 3.14",
+  "Operating System :: POSIX :: Linux",
+  "Operating System :: MacOS :: MacOS X",
+  "Operating System :: Microsoft :: Windows"
 ]
 
 [build-system]
