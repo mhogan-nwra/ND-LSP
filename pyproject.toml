@@ -22,7 +22,7 @@ dependencies = [
 classifiers = [
   "Topic :: Scientific/Engineering :: Physics",
   "Intended Audience :: Science/Research",
-  "License :: OSI Approved :: BSD License",
+  "License :: OSI Approved :: MIT License",
   "Natural Language :: English",
   "Programming Language :: Python :: 3",
   "Programming Language :: Python :: 3.8",
